@@ -1,1 +1,2 @@
 archivo en Git
+segundo texto
